@@ -3,3 +3,4 @@ nyanmisaka/jellyfin:latest
 linuxserver/plex:latest
 linuxserver/transmission:latest
 linuxserver/qbittorrent:latest
+deasmi/unraid-tailscale:latest
