@@ -5,5 +5,5 @@ linuxserver/transmission:latest
 linuxserver/qbittorrent:latest
 syncthing/syncthing:latest
 ghcr.io/blakeblackshear/frigate:stable
-postgres:latest
 pgvector/pgvector:pg17
+redis:alpine
