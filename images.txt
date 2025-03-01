@@ -1,4 +1,5 @@
 ghcr.io/imagegenius/immich:openvino
+ghcr.io/imagegenius/immich:latest
 lscr.io/linuxserver/homeassistant:latest
 nyanmisaka/jellyfin:latest
 linuxserver/transmission:latest
