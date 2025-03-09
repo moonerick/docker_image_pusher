@@ -2,7 +2,7 @@ ghcr.io/imagegenius/immich:openvino
 ghcr.io/imagegenius/immich:latest
 lscr.io/linuxserver/homeassistant:latest
 nyanmisaka/jellyfin:latest
-linuxserver/transmission:4.0.5
+linuxserver/transmission:latest
 linuxserver/qbittorrent:latest
 syncthing/syncthing:latest
 ghcr.io/blakeblackshear/frigate:stable
