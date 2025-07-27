@@ -8,4 +8,5 @@ syncthing/syncthing:latest
 ghcr.io/blakeblackshear/frigate:stable
 pgvector/pgvector:pg17
 ghcr.io/tensorchord/cloudnative-vectorchord:16-0.3.0
+ghcr.io/corentingiraud/cnpg-pgvector-vectorchord:16-migration
 redis:alpine
