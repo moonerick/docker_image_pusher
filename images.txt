@@ -7,7 +7,5 @@ linuxserver/qbittorrent:latest
 syncthing/syncthing:latest
 ghcr.io/blakeblackshear/frigate:stable
 pgvector/pgvector:pg17
-ghcr.io/tensorchord/cloudnative-vectorchord:16-0.3.0
-ghcr.io/corentingiraud/cnpg-pgvector-vectorchord:16-migration
 ghcr.io/immich-app/postgres:16-vectorchord0.3.0-pgvectors0.3.0
 redis:alpine
