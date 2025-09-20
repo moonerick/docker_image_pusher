@@ -1,11 +1,8 @@
-ghcr.io/imagegenius/immich:openvino
-ghcr.io/imagegenius/immich:latest
 lscr.io/linuxserver/homeassistant:latest
 nyanmisaka/jellyfin:latest
 linuxserver/transmission:latest
 linuxserver/qbittorrent:latest
 syncthing/syncthing:latest
-ghcr.io/blakeblackshear/frigate:stable
 pgvector/pgvector:pg17
 ghcr.io/immich-app/postgres:16-vectorchord0.3.0-pgvectors0.3.0
 redis:alpine
