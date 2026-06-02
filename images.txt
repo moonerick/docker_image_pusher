@@ -7,3 +7,4 @@ pgvector/pgvector:pg17
 ghcr.io/immich-app/postgres:16-vectorchord0.3.0-pgvectors0.3.0
 redis:alpine
 apachewebdav/apachewebdav:latest
+python:3.14-slim
