@@ -1,4 +1,3 @@
-nyanmisaka/jellyfin:latest
 linuxserver/transmission:latest
 linuxserver/qbittorrent:latest
 syncthing/syncthing:latest
